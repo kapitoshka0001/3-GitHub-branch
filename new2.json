@@ -2,5 +2,10 @@
  "name":"Женя",
  "age":35,
  "pet":1,
- "salary":1000
+ "salary":1000,
+ "film":Fargo,
+ "film":Corona,
+ "eat":Pasta,
+ "seasons":summer,
+ "country":Uk
  } 
