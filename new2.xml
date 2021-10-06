@@ -1,4 +1,11 @@
-<name>Женя</name>
-<age>35</age>
-<pet>1</pet>
-<salary>1000</salary>
+<about_me>
+  <name>Женя</name>
+  <age>35</age>
+  <pets>1</pets>
+  <salary>1000</salary>
+  <film>Fargo</film>
+  <series>Corona</series>
+  <eat>Pasta</eat>
+  <seasons>summer</season>
+  <country>Uk</country>
+</about_me> 
